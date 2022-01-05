@@ -9,7 +9,7 @@
 ![](pieces/mountgfu_square.png)
 ![](pieces/charconcept.png)
 ![](pieces/charconcept02.png)
-![](pieces/gunconcept.png)
+![](pieces/GunConcept.png)
 ![](pieces/gunlayout.png)
 ![](pieces/manifest.png)
 ![](pieces/ndcayf03.png)
