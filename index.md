@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## NottMatt's Art Portfolio
 
-You can use the [editor on GitHub](https://github.com/NottMatt/Artbook/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NottMatt/Artbook/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![piece01](pieces/gfucity2bk.png)
+![piece01](pieces/gfucity3bk.png)
+![piece01](pieces/gfucity4ph.png)
+![piece01](pieces/gfulogo.png)
+![piece01](pieces/mountgfu.png)
+![piece01](pieces/mountgfu_phone2.png)
+![piece01](pieces/mountgfu_square.png)
+![piece01](pieces/charconcept.png)
+![piece01](pieces/charconcept02.png)
+![piece01](pieces/gunconcept.png)
+![piece01](pieces/gunlayout.png)
+![piece01](pieces/manifest.png)
+![piece01](pieces/ndcayf03.png)
+![piece01](pieces/coverart.png)
+![piece01](pieces/model0.png)
+![piece01](pieces/duos.png)
+![piece01](pieces/trios_hires.png)
+![piece01](pieces/trios_hires_dark.png)
+![piece01](pieces/jumppad_hires.png)
+![piece01](pieces/boared2.png)
+![piece01](pieces/boared3.png)
+![piece01](pieces/image0.png)
+![piece01](pieces/portrait_collage.png)
+![piece01](pieces/spacecat.png)
+![piece01](pieces/spacecatmoon.png)
+![piece01](pieces/spotify-cover.png)
+![piece01](pieces/untitled-3.jpg)
+![piece01](pieces/vector_portrait.jpg)
